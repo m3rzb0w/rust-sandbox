@@ -18,6 +18,6 @@ pub fn run() {
     // Placeholder for debut trait
     println!("{:?}", (12, true, "hey!"));
 
-    // Basic Math
+    // Basic Maths
     println!("10 + 10 = {}", 10 + 10);
 }
