@@ -13,7 +13,7 @@ Tuples
 Arrays = fix length
 */
 
-// Rust is a statically typed language, it must know the types of all variables at compile time.
+// Rust is a statically typed language, it must know the types of all variables at compile time. Or the compile infer them
 
 pub fn run() {
     //Default is i32
