@@ -2,6 +2,8 @@ mod print;
 mod var;
 mod types;
 mod strings;
+mod tuples;
+mod arrays;
 
 fn main() {
     println!("Hello, world!");
@@ -10,4 +12,6 @@ fn main() {
     var::run();
     types::run();
     strings::run();
+    tuples::run();
+    arrays::run();
 }
