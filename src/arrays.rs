@@ -27,7 +27,7 @@ pub fn run() {
 
     //get slice
     let slice: &[i32] = &numbers[1..3];
-    println!("Slice {:?}", slice)
+    println!("Slice {:?}", slice);
 
 
 }

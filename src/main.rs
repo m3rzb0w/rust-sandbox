@@ -4,6 +4,8 @@ mod types;
 mod strings;
 mod tuples;
 mod arrays;
+mod vectors;
+mod conditonals;
 
 fn main() {
     println!("Hello, world!");
@@ -14,4 +16,6 @@ fn main() {
     strings::run();
     tuples::run();
     arrays::run();
+    vectors::run();
+    conditonals::run();
 }
