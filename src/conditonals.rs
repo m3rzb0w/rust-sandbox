@@ -1,8 +1,6 @@
 //conditionals
 //used to check the condition of something and act on the result
 
-use crate::print;
-
 pub fn run() {
     let age: u8 = 30;
     let check_id: bool = true;
